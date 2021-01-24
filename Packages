@@ -34,3 +34,22 @@ Name: Neterm Them Manager
 Author: NeutronFile <neutronfile19@icloud.com>
 Depiction: https://elhizazi1.github.io/ProtonFile/depic/newtermtm.html
 Sponsor: NeutronFile.org <http://neutronfile.org/>
+
+Package: com.cemck.killx-pro
+Architecture: iphoneos-arm
+Version: 2.1.2-3E
+Section: Tweaks
+Maintainer: NeutronFile <neutronfile19@icloud.com>
+Depends: mobilesubstrate
+Filename: debs//org.protonfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
+Size: 8650
+MD5sum: 13ceab5d60b649588bb98dffd1eeb6d1
+SHA1: c345910ab07c910f65cb2cbecb457828c00dbd72
+SHA256: 4315dfd0a8130c43201072015c6bd8b79a544a32cdf732d2f0e1c6774caa51b3
+Homepage: http://neutronfile.org/
+Description: KillX Pro
+Name: KillX Pro
+Author: cemck
+Depiction: https://D3S77.github.io/ProtonFile/depic/KillX.html
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro_big@3x.png
